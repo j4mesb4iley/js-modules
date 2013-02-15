@@ -1,4 +1,4 @@
 js-modules
 ==========
 
-Javascript module snippets
+Snippets of javascript code and general ramblings

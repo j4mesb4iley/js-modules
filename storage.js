@@ -11,8 +11,8 @@ JB.storage = (function() {
 		try {
 			
 			// Try and catch quota exceeded errors
-			sessionStorage.setItem('ICTestKey', '1');
-			sessionStorage.removeItem('ICTestKey');
+			sessionStorage.setItem('TestKey', '1');
+			sessionStorage.removeItem('TestKey');
 			return false;
 		
 		} catch (error) {

@@ -9,7 +9,7 @@ JB.AJAX = (function() {
 	 * @param params JSON object containing settings for ajax lookup
 	 * 
 
-	 * var demoArgs = {
+	 	var demoArgs = {
 			url : 'http://test.test.co.uk/',
 			timeout : 10000,
 			async : true,
